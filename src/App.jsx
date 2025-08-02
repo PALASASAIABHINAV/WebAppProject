@@ -20,9 +20,6 @@ const App = () => {
           <li>Ready for integration with CI/CD tools</li>
         </ul>
       </main>
-      <footer className="homepage-footer">
-        &copy; {new Date().getFullYear()} Sec-112 CI/CD Demo. All rights reserved.
-      </footer>
     </div>
   )
 }
